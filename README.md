@@ -1,6 +1,7 @@
 # Videos Database
 
 # About my implementation
+More information about the project can be found [here](https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/tema).
 
 ## Models
 I started by creating my own models:
